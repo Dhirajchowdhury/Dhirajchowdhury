@@ -15,20 +15,44 @@
 
 ## 🎯 About Me
 
-```yaml
-name: Dhiraj Chowdhury
-located_in: India
-current_focus: Data Structures & Algorithms
-education: Early College Career
-interests: 
-  - Innovative Problem Solving
-  - Full-Stack Development
-  - Blockchain & Web3
-  - Cloud Technologies
-  - Machine Learning
-open_to: Collaboration on cutting-edge projects
-fun_fact: Just started my journey to become a world-class software engineer! 🚀
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+const dhiraj = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    currentMission: "Cracking DSA like a boss 💪",
+    vibe: "Early college, big dreams ✨",
+    
+    passions: {
+        solving: "Problems that don't exist yet 🧩",
+        building: ["Full-Stack Magic", "Web3 Revolution", "Cloud Infrastructure"],
+        learning: ["Machine Learning", "System Design", "Competitive Programming"],
+        creating: "The future, one commit at a time 🚀"
+    },
+    
+    openToCollab: true,
+    lookingFor: "Innovative projects & wild ideas 💡",
+    
+    currentStatus: {
+        grinding: "LeetCode",
+        building: "Side Projects",
+        learning: "Everything",
+        mood: "Locked in 🔒"
+    },
+    
+    lifeGoal: "World-class SWE | Building cool stuff | Making an impact",
+    funFact: "Started from console.log, now we're here 🎯"
+};
 ```
+
+<div align="center">
+
+### ⚡ Quick Stats
+
+🎓 College Freshman | 💻 100+ DSA Problems | 🌱 Always Learning | 🚀 Ready to Collaborate
+
+</div>
 
 ---
 
@@ -104,15 +128,6 @@ fun_fact: Just started my journey to become a world-class software engineer! �
   <img src="https://github-profile-trophy.vercel.app/?username=Dhirajchowdhury&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophy Stats"/>
 </div>
 
----
-
-## 🔥 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/Dhirajchowdhury">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Dhirajchowdhury&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Contributed Repos"/>
-  </a>
-</div>
 
 ---
 
@@ -127,8 +142,8 @@ fun_fact: Just started my journey to become a world-class software engineer! �
 
 </div>
 
----
 
+---
 
 <div align="center">
 
